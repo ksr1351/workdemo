@@ -61,7 +61,7 @@
 #### 1) 인라인 코드(inline code)
 
 - 백틱(\`)으로 강조할 내용을 감싼다.
-  repository에서 프로젝트의 설명을 부여해줄 때 'README.md'를 사용한다.
+  repository에서 프로젝트의 설명을 부여해줄 때 `README.md`를 사용한다.
 
 #### 2) 블럭코드 (block code)
 
