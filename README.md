@@ -16,7 +16,7 @@
 
 ### BlockQuote
 
-> This is a first bolckquote
+> This is a first blockquote
 >
 > > This is a second blockquote
 >
