@@ -90,7 +90,11 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20221207_98%2F1670411213834BMMbN_JPEG%2FIMG_9832.jpg%22&type=nf340_228)
+![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20221207_98%2F1670411213834BMMbN_JPEG%2FIMG_9832.jpg%22&type=nf340_228) 이미지의 링크로 출력
 
-![box](./images/images.jfif)
-[![daum](images/image1.jfif)](https://www.daum.net/)
+![box](./images/images.jfif) 이미지 저장 후 출력
+[![daum](images/image1.jfif)](https://www.daum.net/) 이미지 클릭 시 해당 사이트로 이동
+
+### 원시 HTML(Raw HTML)
+
+<img src='images/image1.jfif' alt='daum'>
